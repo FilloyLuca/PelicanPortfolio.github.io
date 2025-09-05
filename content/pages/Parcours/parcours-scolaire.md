@@ -1,9 +1,10 @@
 Title: Parcours scolaire
 
+<img src="/images/stmg.png" alt="Logo STMG" width="400px" style="float:right; padding-left:10px;">
+
 # Présentation de mon parcours scolaire
 
-Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations & **N**umérique) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuite d'études suivantes dans le domaine de l'informatique :
-
+Après un bac **STMG** spécialité **SIG** (**S**ystème d'**I**nformation et de **G**estion) j'avais la volonté de changer de domaine et de ne pas continuer dans ce que le bac stmg prepare j'ai donc voulu poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuite d'études suivantes dans le domaine de l'informatique :
 
 
 **1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
@@ -16,22 +17,15 @@ Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations &
 - **<u>Durée :</u>** 2 ans.
 - **<u>Débouchés :</u>** emploi direct (technicien support, admin systèmes/réseaux, développeur junior) ou poursuite d’études (Bachelor, BUT, Licence).
 
+<br>
 
-**2. BTS CIEL** (**C**ybersécurité, **I**nformatique et réseaux, **É**lectronique) : Nouvelle filière (remplace une partie du **BTS SN**).
+**2. BUT MMI** (**M**étiers du **M**ultimédia et de l’**I**nternet) :
 
-Orienté systèmes numériques, réseaux, électronique et cybersécurité.
-
-- **<u>Débouchés :</u>** technicien réseaux, support, sécurité. Possible poursuite en Bachelor cybersécurité ou BUT.
+Formation polyvalente axée sur la création numérique, le web, la communication, le design, l’audiovisuel et le développement.
 
 
-**3. BUT Informatique** (ex-DUT) :
-
-Formation en 3 ans (mais on peut sortir après 2 ans avec un DUT).
-
-- **<u>Spécialités :</u>** développement, data, systèmes et réseaux, gestion de projets.
-- **<u>Points forts :</u>** pédagogie par projets, bonne réputation auprès des entreprises.
-- **<u>Débouchés :</u>** bac +3 direct, insertion professionnelle ou poursuite en Master/école d’ingénieur.
-
+- **<u>Durée :</u>** 3 ans.
+- **<u>Débouchés :</u>** webdesigner, développeur web, chef de projet digital, community manager, intégrateur multimédia, ou poursuite d’études (licence professionnelle,école spécialisée, master).
 
 
 J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications.

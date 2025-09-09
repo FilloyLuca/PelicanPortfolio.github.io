@@ -2,12 +2,11 @@ Title: Parcours scolaire
 
 <img src="/images/stmg.png" alt="Logo STMG" width="400px" style="float:right; padding-left:10px;">
 
-# Présentation de mon parcours scolaire
-
+# 🎓 Présentation de mon parcours scolaire
 Après un bac **STMG** spécialité **SIG** (**S**ystème d'**I**nformation et de **G**estion) j'avais la volonté de changer de domaine et de ne pas continuer dans ce que le bac stmg prepare j'ai donc voulu poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuite d'études suivantes dans le domaine de l'informatique :
 
 
-**1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
+🏫**1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
 
 - **<u>Options :</u>**
     - **SISR** (**S**olutions d’**I**nfrastructure, **S**ystèmes et **R**éseaux) → administration réseaux, cybersécurité, cloud, virtualisation.
@@ -19,7 +18,7 @@ Après un bac **STMG** spécialité **SIG** (**S**ystème d'**I**nformation et d
 
 <br>
 
-**2. BUT MMI** (**M**étiers du **M**ultimédia et de l’**I**nternet) :
+🏫**2. BUT MMI** (**M**étiers du **M**ultimédia et de l’**I**nternet) :
 
 Formation polyvalente axée sur la création numérique, le web, la communication, le design, l’audiovisuel et le développement.
 

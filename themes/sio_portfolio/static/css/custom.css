@@ -56,13 +56,27 @@ PROPRIETES GENERALES :
 Définition du fond :
 --------------------
 */
-body {
+
+/* body {
     background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(255, 255, 255, 0.95));
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; /*contain*/ 
-    background-attachment: fixed;
-  }
+    /*background-attachment: fixed;
+  } */
+
+body {
+  background-color: #fff;
+  background-image: 
+    linear-gradient(to right, #e0e0e0 1px, transparent 1px),
+    linear-gradient(to bottom, #e0e0e0 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+/* body {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+} */
 
 
   /*

@@ -61,12 +61,82 @@ body {
   cursor: url("/images/equerre.png") 0 0, auto;
 }
 
-body {
+/*body {
   background-color: #fff;
   background-image: 
     linear-gradient(to right, #e0e0e0 1px, transparent 1px),
     linear-gradient(to bottom, #e0e0e0 1px, transparent 1px);
   background-size: 40px 40px;
+}*/
+
+body {
+  background-image:
+    linear-gradient(to right, #e0e0e0 1px, transparent 1px),
+    linear-gradient(to bottom, #e0e0e0 1px, transparent 1px),
+    linear-gradient(135deg, #fff9a5 80%, transparent 80%),   /* post-it 1 */
+    linear-gradient(135deg, #ffe4a5 80%, transparent 80%),   /* post-it 2 */
+    linear-gradient(135deg, #caffb5 80%, transparent 80%),   /* post-it 3 */
+    linear-gradient(135deg, #ffd6e0 80%, transparent 80%),   /* post-it 4 */
+    linear-gradient(135deg, #b5eaff 80%, transparent 80%),   /* post-it 5 */
+    linear-gradient(135deg, #e0b5ff 80%, transparent 80%),   /* post-it 6 */
+    linear-gradient(135deg, #ffeabf 80%, transparent 80%),   /* post-it 7 */
+    linear-gradient(135deg, #bfffe7 80%, transparent 80%),   /* post-it 8 */
+    linear-gradient(135deg, #ffbfcf 80%, transparent 80%),   /* post-it 9 */
+    linear-gradient(135deg, #d0bfff 80%, transparent 80%);   /* post-it 10 */
+  background-position:
+    0 0,                /* grille verticale */
+    0 0,                /* grille horizontale */
+    400px 300px,        /* post-it 1 */
+    200px 500px,        /* post-it 2 */
+    600px 150px,        /* post-it 3 */
+    800px 400px,        /* post-it 4 */
+    100px 700px,        /* post-it 5 */
+    700px 600px,        /* post-it 6 */
+    300px 800px,        /* post-it 7 */
+    900px 200px,        /* post-it 8 */
+    500px 500px,        /* post-it 9 */
+    850px 650px;        /* post-it 10 */
+  background-repeat:
+    repeat,
+    repeat,
+    no-repeat,
+    no-repeat,
+    no-repeat,
+    no-repeat,
+    no-repeat,
+    no-repeat,
+    no-repeat,
+    no-repeat,
+    no-repeat,
+    no-repeat;
+  background-size:
+    40px 40px,
+    40px 40px,
+    60px 60px,
+    60px 60px,
+    60px 60px,
+    60px 60px,
+    60px 60px,
+    60px 60px,
+    60px 60px,
+    60px 60px,
+    60px 60px,
+    60px 60px;
+}
+
+/* Style post-it */
+.postit {
+  position: absolute;
+  width: 200px;
+  min-height: 120px;
+  background: #fff9a5;
+  border: 1px solid #e6d700;
+  border-radius: 12px 30px 12px 30px;
+  box-shadow: 2px 6px 18px 0 rgba(0,0,0,0.15), 0 1.5px 0 #e6d700 inset;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+  transform: rotate(-2deg);
+  padding: 1rem;
+  z-index: 10;
 }
 
 /* body {

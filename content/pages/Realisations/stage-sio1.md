@@ -1,6 +1,7 @@
 Title: Stage SIO1
 
 <img src="/images/jc_logo.jpg" alt="Logo Judo Club" width="400px" style="float:right; padding-left:10px;">
+<!-- ![Logo Judo Club]({static}/images/jc_logo.jpg) -->
 
 > # FICHE DESCRIPTIVE :
 
@@ -26,6 +27,7 @@ Des informations telles que l'âge, le sexe, les documents médicaux, etc... ét
 
 <!---![Logo Laravel](/images/LaravelLogo.png)-->
 <img src="/images/LaravelLogo.png" alt="Logo Laravel" width="500px">
+<!-- ![Logo Laravel]({static}/images/LaravelLogo.png) -->
 
 <u>**Mission 2 :**</u> <br>
 Mise en place d'un système permettant de mettre à jour le site, n'importe quelle partie que ce soit des images, ou du texte, grâce à un document Word. Cette mission avait pour but d'améliorer la mise à jour du site qui était fastidieux.

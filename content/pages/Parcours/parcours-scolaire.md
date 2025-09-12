@@ -1,6 +1,7 @@
 Title: Parcours scolaire
 
-<img src="/images/stmg.png" alt="Logo STMG" width="400px" style="float:right; padding-left:10px;">
+<!-- <img src="{static}/stmg.png" alt="Logo STMG" width="400px" style="float:right; padding-left:10px;"> -->
+![Logo STMG]({static}/images/stmg.png)
 
 # 🎓 Présentation de mon parcours scolaire
 Après un bac **STMG** spécialité **SIG** (**S**ystème d'**I**nformation et de **G**estion) j'avais la volonté de changer de domaine et de ne pas continuer dans ce que le bac stmg prepare j'ai donc voulu poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuite d'études suivantes dans le domaine de l'informatique :
